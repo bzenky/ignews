@@ -13,7 +13,7 @@
     "@stripe/stripe-js": "^1.19.1",
     "axios": "^0.22.0",
     "faunadb": "^4.4.1",
-    "next": "11.1.2",
+    "next": "12",
     "next-auth": "^3.29.0",
     "prismic-dom": "^2.2.6",
     "react": "17.0.2",
