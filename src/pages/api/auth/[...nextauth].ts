@@ -3,7 +3,6 @@ import GithubProvider from "next-auth/dist/providers/github"
 
 import { fauna } from '../../../services/fauna'
 import { query as q } from 'faunadb'
-import { session } from "next-auth/client"
 
 export default NextAuth({
   // Configure one or more authentication providers
