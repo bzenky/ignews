@@ -3,7 +3,7 @@ import { SignInButton } from '../SignInButton'
 
 import styles from './styles.module.scss'
 
-export function Header() {
+export function HeaderApp() {
 
   return (
     <header className={styles.headerContainer}>
